@@ -1,4 +1,5 @@
 - name: gather information from routers
+  hosts: 10.99.0.9
   gather_facts: no
 
   tasks:
